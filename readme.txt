@@ -1,10 +1,10 @@
-you can start a server by simply typing: 
+you can start a server by simply typing in terminal: 
     python3 .\server.py
 
 or using the Makefile:
     make server
 
-you can join a server by typing:
+you can join a server by typing in terminal:
     python3 .\client.py
 
 or using the Makefile:
